@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
  :rocket:  &nbsp; Ainda não estou trabalhando
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos
- <br/> :blush: &nbsp; Posso te ajudar com alguma coisa
+ <br/> :blush: &nbsp; Em breve poderei te ajudar com alguma coisa
  <br/> :computer: &nbsp; Minha stack: Processando ainda...
  <br/> 💬  &nbsp; Sobre mim: Em breve...
  <br/> :email: &nbsp; Entre em contato comigo: mateusguerreiro11@hotmail.com 
