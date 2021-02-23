@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img width="auto" src="https://github.com/gMateus.png">
+<img width="auto" src="">
 
 
 # Mateus Guerreiro
