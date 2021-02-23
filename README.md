@@ -13,4 +13,22 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+<img width="auto" src="https://github.com/gMateus.png">
+
+
+# Mateus Guerreiro
+
+## Olá pessoal. Seja bem-vindo ao meu perfil! 👋
+ :computer:
+
+ :rocket:  &nbsp; Ainda não estou trabalhando
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos
+ <br/> :blush: &nbsp; Posso te ajudar com alguma coisa
+ <br/> :computer: &nbsp; Minha stack: Processando ainda...
+ <br/> 💬  &nbsp; Sobre mim: Em breve...
+ <br/> :email: &nbsp; Entre em contato comigo: mateusguerreiro11@hotmail.com / @mateus_dsg
+| 
+...
