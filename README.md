@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 -->
 
-<img width="auto" src="">
-
-
 # Mateus Guerreiro
 
 ## Hello. Welcome to my profile! 👋
