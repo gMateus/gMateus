@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## Hello. Welcome to my profile! 👋
  :computer:
 
- :rocket:  &nbsp; I don't work still.
+ :rocket:  &nbsp; I don't work yet.
  <br/> :computer: &nbsp; My stack: What i can program.
  <br/> 💬  &nbsp; About me: Soon...
  <br/> :email: &nbsp; My email: mateusguerreiro11@hotmail.com 
