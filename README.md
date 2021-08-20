@@ -21,14 +21,10 @@ Here are some ideas to get you started:
 
 # Mateus Guerreiro
 
-## Olá pessoal. Seja bem-vindo ao meu perfil! 👋
+## Hello. Welcome to my profile! 👋
  :computer:
 
- :rocket:  &nbsp; Ainda não estou trabalhando
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos
- <br/> :blush: &nbsp; Em breve poderei te ajudar com alguma coisa
- <br/> :computer: &nbsp; Minha stack: Processando ainda...
- <br/> 💬  &nbsp; Sobre mim: Em breve...
- <br/> :email: &nbsp; Entre em contato comigo: mateusguerreiro11@hotmail.com 
-| 
-...
+ :rocket:  &nbsp; I don't work still.
+ <br/> :computer: &nbsp; My stack: What i can program.
+ <br/> 💬  &nbsp; About me: Soon...
+ <br/> :email: &nbsp; My email: mateusguerreiro11@hotmail.com 
